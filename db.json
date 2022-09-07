@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "glina",
+      "id": 1,
+      "quantity": 3,
+      "price": 10,
+      "img": "someurl"
+    },
+    {
+      "id": 2,
+      "name": "szkliwo",
+      "quantity": 3,
+      "price": 10,
+      "img": "someurl"
+    },
+    {
+      "id": 3,
+      "name": "pędzle",
+      "quantity": 5,
+      "price": 10,
+      "img": "someurl"
+    },
+    {
+      "id": 4,
+      "name": "glina 2",
+      "quantity": 5,
+      "price": 10,
+      "img": "someurl"
+    },
+    {
+      "id": 5,
+      "name": "szkliwa na wysoką temp.",
+      "quantity": 5,
+      "price": 10,
+      "img": "someurl"
+    },
+    {
+      "id": 6,
+      "name": "piece",
+      "quantity": 5,
+      "price": 10,
+      "img": "someurl"
+    }
+  ]
+}

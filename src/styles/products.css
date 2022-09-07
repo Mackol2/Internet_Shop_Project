@@ -1,0 +1,31 @@
+.flexContainer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.box {
+    margin: 5px;
+    margin-top: 10px;
+    width: 200px;
+    border: 1px solid orange;
+    box-shadow: 2px 2px 4px 0 orange;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.box h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.box p {
+    font-size: 12px;
+}
+
+.box Button {
+    color: black;
+}

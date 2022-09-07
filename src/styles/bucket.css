@@ -1,0 +1,48 @@
+.bucket {
+    border: 5px solid lightgray;
+    margin: 10px;
+    padding: 25px;
+    position: absolute;
+    top: 25%;
+    background-color: white;
+    width: 90%;
+    box-shadow: 2px 2px 4px 0 lightgray;
+}
+
+.box2 {
+    margin: 5px;
+    margin-top: 10px;
+    width: 100%;
+    border: 1px solid orange;
+    box-shadow: 2px 2px 4px 0 orange;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.box2 h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.box2 p {
+    font-size: 12px;
+}
+
+.summary {
+    margin-top: 15px;
+}
+.summary2 {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.btnMy {
+    margin: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btnMy Button {
+    margin-right: 10px;
+}
